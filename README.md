@@ -10,3 +10,17 @@ Technologies used:
 - Axios for requests
 - TypeScript
 
+## Install
+
+First things first.
+
+```bash
+npm install
+```
+
+Then install axios.
+
+```bash
+npm install axios
+```
+
